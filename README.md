@@ -6,3 +6,7 @@
 
 Article link in [here](https://ivantay2003.medium.com/)
 
+
+<br>
+Remote : git remote add origin https://github.com/ivantay2003/ParentChildReactJS.git
+
